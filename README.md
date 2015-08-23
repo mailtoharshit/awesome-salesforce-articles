@@ -10,7 +10,7 @@
 
 ## Table of Contents  
   * [Javascript API](#api)
-  * [Design Pattern](#design-pattern)
+  * [Design Pattern](#design-pattern-in-on-forcecom)
   * [Application Frameworks](#application-frameworks)
   * [UI/UX](#application-templates)
   * [Continuous Integration](#continuous-integration)
