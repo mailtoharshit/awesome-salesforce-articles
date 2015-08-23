@@ -17,7 +17,6 @@
 
 ### Design Pattern on Force.com 
 ============================================
-
 Design patterns are an invaluable tool for developers and architects looking to build enterprise solutions. Here are presented some tried and tested enterprise application engineering patterns that have been used in other platforms and languages. We will discuss and illustrate how patterns such as Data Mapper, Service Layer, Unit of Work and of course Model View Controller can be applied to Force.com. Applying these patterns can help manage governed resources (such as DML) better, encourage better separation-of-concerns in your logic and enforce Force.com coding best practices.
 
 ### Enterprise Pattern Articles 
@@ -45,7 +44,7 @@ Apex Mocks Full documentation for ApexMocks can be found at [Code4Clode](http://
 - [Unit Testing, Apex Enterprise Patterns and ApexMocks – Part 1](http://andyinthecloud.com/2015/03/22/unit-testing-with-apex-enterprise-patterns-and-apexmocks-part-1/)
 - [Unit Testing, Apex Enterprise Patterns and ApexMocks – Part 2](http://andyinthecloud.com/2015/03/29/unit-testing-apex-enterprise-patterns-and-apexmocks-part-2/)
 
-### Javascript API
+### API
 * [JsForce](https://jsforce.github.io/) - https://jsforce.github.io/
   * [OyeCode](http://www.oyecode.com/2014/02/jsforce-javascript-library-of.html) - JSForce | JavaScript Library of Salesforce API. Checkout demo [video](https://www.youtube.com/watch?v=TQs8Tc9zELI)
   <br/>
@@ -53,4 +52,13 @@ Apex Mocks Full documentation for ApexMocks can be found at [Code4Clode](http://
   * [NgForce](https://developer.salesforce.com/blogs/developer-relations/2013/05/angularjs-and-ngforce-more-fun-in-the-javascript-playground.html) 
   * [Dreamforce Video](https://www.youtube.com/watch?v=11OUWMgMVOc)
   <br/>
-  * []()
+ 
+### Javascript Frameworks with Salesforce
+###AngularJS
+ * [Building a Single Page App with AngularJS and the Salesforce REST API](https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html)
+ * [Angular JS with Salesforce tutotial by Harshit Pandey](http://www.oyecode.com/2013/06/getting-started-with-angularjs-on.html)-  <br/>
+ * [Getting Started in Mobile Development with AngularJs](https://developer.salesforce.com/mobile/getting-started/html5#angularjs)
+ * [Angular.js with Salesforce.com by Jeff Doughlas](http://blog.jeffdouglas.com/2013/06/10/angularjs-and-salesforce-com-tutorial/)
+ * [Youtube Video by Christopher Kulish - Building Visualforce Pages with AngularJS and JavaScript Remote Objects](https://www.youtube.com/watch?v=IgZwbpgh42o)
+ * [Multiple Blog Post Angular.Js by Jitendra Zaa](http://www.jitendrazaa.com/blog/webtech/web/getting-started-with-angularjs/#more-3675)
+ * 
