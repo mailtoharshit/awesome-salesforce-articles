@@ -16,8 +16,8 @@
   * [Continuous Integration](#continuous-integration)
 
   Read Related Awesome Pages : 
+   * [Awesome Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
  
