@@ -46,7 +46,7 @@ Apex Mocks Full documentation for ApexMocks can be found at [Code4Clode](http://
 
 ### API
 * [JsForce](https://jsforce.github.io/) - https://jsforce.github.io/
-  * [OyeCode](http://www.oyecode.com/2014/02/jsforce-javascript-library-of.html) - JSForce | JavaScript Library of Salesforce API. Checkout demo [video](https://www.youtube.com/watch?v=TQs8Tc9zELI)
+  * [JSForce | JavaScript Library of Salesforce at OyeCode by Harshit Pandey](http://www.oyecode.com/2014/02/jsforce-javascript-library-of.html) -  API. Checkout demo [video](https://www.youtube.com/watch?v=TQs8Tc9zELI)
   <br/>
 * [NgForce](http://noeticpenguin.github.io/ngForce/)- ngForce is a set of Angular.js modules <br/>
   * [NgForce](https://developer.salesforce.com/blogs/developer-relations/2013/05/angularjs-and-ngforce-more-fun-in-the-javascript-playground.html) 
