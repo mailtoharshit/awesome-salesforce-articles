@@ -15,6 +15,12 @@
   * [UI/UX](#application-templates)
   * [Continuous Integration](#continuous-integration)
 
+  Read Related Awesome Pages : 
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
+ 
 ### Design Pattern on Force.com 
 ============================================
 Design patterns are an invaluable tool for developers and architects looking to build enterprise solutions. Here are presented some tried and tested enterprise application engineering patterns that have been used in other platforms and languages. We will discuss and illustrate how patterns such as Data Mapper, Service Layer, Unit of Work and of course Model View Controller can be applied to Force.com. Applying these patterns can help manage governed resources (such as DML) better, encourage better separation-of-concerns in your logic and enforce Force.com coding best practices.
