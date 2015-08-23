@@ -10,10 +10,36 @@
 
 ## Table of Contents  
   * [Javascript API](#api)
+  * [Design Pattern](#design-pattern)
   * [Application Frameworks](#application-frameworks)
   * [UI/UX](#application-templates)
   * [Continuous Integration](#continuous-integration)
- 
+
+### Design Pattern in on Force.com 
+============================================
+
+Design patterns are an invaluable tool for developers and architects looking to build enterprise solutions. Here are presented some tried and tested enterprise application engineering patterns that have been used in other platforms and languages. We will discuss and illustrate how patterns such as Data Mapper, Service Layer, Unit of Work and of course Model View Controller can be applied to Force.com. Applying these patterns can help manage governed resources (such as DML) better, encourage better separation-of-concerns in your logic and enforce Force.com coding best practices.
+
+Dreamforce Session and Slides
+-----------------------------
+- View slides for the **Dreamforce 2013** session [here](https://docs.google.com/file/d/0B6brfGow3cD8RVVYc1dCX2s0S1E/edit) 
+- Video recording of the **Dreamforce 2013** session [here](http://www.youtube.com/watch?v=qlq46AEAlLI).
+- Video recording of the **Advanced Apex Enterprise Dreamforce 2014** session [here](http://dreamforce.vidyard.com/watch/7QtP2628KmtXfmiwI-7B1w%20).
+
+Apex Mocks Full documentation for ApexMocks can be found at [Code4Clode](http://code4cloud.wordpress.com/):
+* [ApexMocks Framework Tutorial](http://code4cloud.wordpress.com/2014/05/06/apexmocks-framework-tutorial/)
+* [Simple Dependency Injection](http://code4cloud.wordpress.com/2014/05/09/simple-dependency-injection/)
+* [ApexMocks Generator](http://code4cloud.wordpress.com/2014/05/15/using-apex-mocks-generator-to-create-mock-class-definitions/)
+* [Behaviour Verification](http://code4cloud.wordpress.com/2014/05/15/writing-behaviour-verification-unit-tests/)
+* [Stubbing Dependencies](http://code4cloud.wordpress.com/2014/05/15/stubbing-dependencies-in-a-unit-test/)
+* [Supported Features](http://code4cloud.wordpress.com/2014/05/15/apexmocks-supported-features/)
+* [New Improved apex-mocks-generator](http://code4cloud.wordpress.com/2014/06/27/new-improved-apex-mocks-generator/)
+* [ApexMocks Improvements - exception stubbing, base classes and more](http://code4cloud.wordpress.com/2014/11/05/apexmocks-improvements-exception-stubbing-inner-interfaces-and-mock-base-classes/)
+Documentation from Jesse Altman
+
+* [ApexMock blogs from Jesse Altman](http://jessealtman.com/tag/apexmocks/)
+
+
 ### Javascript API
 * [JsForce](https://jsforce.github.io/) - https://jsforce.github.io/
   * [OyeCode](http://www.oyecode.com/2014/02/jsforce-javascript-library-of.html) - JSForce | JavaScript Library of Salesforce API. Checkout demo [video](https://www.youtube.com/watch?v=TQs8Tc9zELI)
